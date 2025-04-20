@@ -23,6 +23,11 @@ The project demonstrates an end-to-end workflow, from data creation and database
     -   **Top Customers:** Shows a table and chart of top customers by spend within the selected date range.
     -   **Latest Orders:** Displays a table of the most recent orders within the selected date range.
 -   Includes **Conceptual SQL Queries** behind key charts and analyses, linking the dashboard's output back to the underlying database interaction logic.
+-   <img width="952" alt="Main Homepage" src="https://github.com/user-attachments/assets/b53cf850-9f1f-44b4-89eb-cedbe994323e" /><img width="405" alt="Customer segment Distribution" src="https://github.com/user-attachments/assets/5a7495fe-78a9-4c04-99ce-4aa34cf39b4a" />
+<img width="380" alt="Top Customers " src="https://github.com/user-attachments/assets/567fd17d-b05f-470e-8112-eb9462137c4c" />
+<img width="386" alt="RFM Scatter Plot" src="https://github.com/user-attachments/assets/f603f716-d865-4a4f-a4ba-8f6fa7216dcc" />
+
+
 
 ### ML Data Preparation
 -   Upon running the Streamlit application (`app.py`), a CSV file named `customer_churn_ml_dataset.csv` is automatically generated.
